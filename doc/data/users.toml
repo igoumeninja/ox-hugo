@@ -260,6 +260,12 @@
   org_dir = "org"
   site = "https://www.steventammen.com/"
 
+ [igoumeninja]
+   author = "Aris Bezas"
+   source = "https://github.com/mousikobostani/mousikobostani.github.io"
+   branch = "master"
+   site = "http://mousikobostani.github.io/"
+
 # []
 #   author = ""
 #   source = ""
